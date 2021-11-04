@@ -1,5 +1,4 @@
-<h1 style="text-align: center">Hello, I'm Douglas Souza</h1>
-
+# Hello, I'm Douglas Souza
 
 ## I'm a Full Stack Web Development Student at TRYBE.
 
