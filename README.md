@@ -1,4 +1,9 @@
-### Hello, I'm Douglas Souza
+<h1 style="text-align: center">Hello, I'm Douglas Souza</h1>
+
+
+## I'm a Full Stack Web Development Student at TRYBE.
+
+
 
 <!--
 **douglas-ssouza/douglas-ssouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
