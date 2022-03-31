@@ -2,8 +2,8 @@
 
 ### About me
 * :technologist: I'm full stack web development student at [TRYBE](https://www.betrybe.com/).
-* :brazil: I'm from Santa Isabel, SP - Brazil.
-* :atom: I'm currently working on learning React Hooks.
+* :brazil: Currently living in Santa Isabel, SP - Brazil.
+* :atom: Trying to learn TypeScript.
 
 ### Technologies
 <div>
