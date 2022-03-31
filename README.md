@@ -3,7 +3,7 @@
 ### About me
 * :technologist: I'm full stack web development student at [TRYBE](https://www.betrybe.com/).
 * :brazil: Currently living in Santa Isabel, SP - Brazil.
-* :typescript: Trying to learn TypeScript.
+* 🧑‍🎓 Trying to learn TypeScript.
 
 ### Technologies
 <div>
