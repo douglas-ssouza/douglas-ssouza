@@ -3,8 +3,8 @@
 ### About me
 * :technologist: I'm a front-end web developer at Ringa
 * :brazil: Based in Santa Isabel, SP - Brazil.
-* :briefcase: Currently working with React + TypeScript + Material UI
-* 🔭 I’m currently working on Next.js
+* :briefcase: Working with React + TypeScript + Material UI
+* 🔭 I’m currently learning Next.js
 
 🧰 Toolbox
 
