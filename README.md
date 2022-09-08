@@ -8,7 +8,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" width="50px" />
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" width="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" width="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" width="50px" />
 
