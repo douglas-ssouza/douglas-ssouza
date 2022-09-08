@@ -1,20 +1,19 @@
 # Hello, I'm Douglas Souza
 
 ### About me
-* :technologist: I'm full stack web development student at [TRYBE](https://www.betrybe.com/).
-* :brazil: Currently living in Santa Isabel, SP - Brazil.
-* 🧑‍🎓 Trying to learn TypeScript.
+* :technologist: I'm a front-end web developer at Ringa
+* :brazil: Based in Santa Isabel, SP - Brazil.
+* :briefcase: Currently working with React + TypeScript + Material UI
+* 🔭 I’m currently working on Next.js
 
-### Technologies
-<div>
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" >
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS">
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux">
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux">
-  <img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-</div>
+🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo" />
 
 <br>
 
